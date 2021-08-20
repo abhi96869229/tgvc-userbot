@@ -18,8 +18,10 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 # import logging
 from pyrogram import Client, idle
 
-api_id = 7454238
-api_hash = "1d278efadc04e68c7129c12e1ba1541f"
+from pyrogram import Client, idle
+
+api_id = 1234567
+api_hash = "0123456789abcdef0123456789abcdef"
 
 plugins = dict(
     root="plugins",
