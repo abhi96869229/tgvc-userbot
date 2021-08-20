@@ -20,8 +20,8 @@ from pyrogram import Client, idle
 
 from pyrogram import Client, idle
 
-api_id = 1234567
-api_hash = "0123456789abcdef0123456789abcdef"
+api_id = 4094043
+api_hash = "6782c95f70f6a40c57bbc471545db5c3"
 
 plugins = dict(
     root="plugins",
